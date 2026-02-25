@@ -1,6 +1,10 @@
 # FitTrack-AI – Fitness Microservices Backend
 
-A microservices-based fitness tracking backend built using Spring Boot.
+FitTrack AI is an AI-powered fitness tracking platform designed to help users train smarter through intelligent performance analysis.
+
+Unlike traditional fitness apps that only log workouts, FitTrack AI analyzes activity trends, tracks progression patterns, and delivers AI-driven insights to improve results over time.
+
+
 
 ## Tech Stack
 - Spring Boot
